@@ -1,0 +1,16 @@
+- Doppelte DB Einträge 
+	Oli
+
+- Design
+- Bewerbungsmanagement DB Vorlage
+- Implementierung MySQL
+- Arbeitsumgebung einrichten
+- Arbeitsaufteilung und -bereiche besprechen
+
+
+Meine Aufgabe
+
+PHP Funktion
+	Parameter: ein Datensatz (eine Contact ID)
+
+	Output: HTML Code eines Listeneintrages der Itgliedertabelle (inkl. CSS)
